@@ -113,6 +113,4 @@ Use Postman to test API endpoints and verify JSON responses.
 
 ## Author
 Aditya Verma
-
-Aditya Verma
 PHP Laravel Developer
