@@ -1,6 +1,6 @@
 # PHP REST API CRUD Application IN WEBPAGE
 
-A RESTful API built with PHP and MySQL to perform CRUD (Create, Read, Update, Delete) operations on student records.
+A RESTful API built with PHP and MySQL to perform CRUD operations on student records.
 
 ## Features
 
@@ -112,5 +112,5 @@ Use Postman to test API endpoints and verify JSON responses.
 * API Testing using Postman
 
 ## Author
-Aditya Verma
-PHP Laravel Developer
+Aditya Verma.
+PHP Laravel Developer.
